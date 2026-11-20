@@ -1,0 +1,18 @@
+SIMULADO DE PORTUGUÊS — PROFESSORA SAMANTA
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta Simulado-Portugues-main.
+3. Clique duas vezes em index.html para abrir a página inicial.
+4. Selecione “Começar simulado”.
+
+CONTEÚDO
+- 27 questões extraídas do PDF enviado.
+- Cinco alternativas (A–E) por questão.
+- Imagens recortadas do próprio PDF e tratadas para melhor visualização (renderização em alta resolução, redução leve de ruído, contraste e nitidez).
+- Correção automática, indicador de progresso, percentual de acertos e gabarito comentado.
+
+OBSERVAÇÃO SOBRE O GABARITO
+O PDF de origem não continha gabarito. As alternativas corretas e os comentários desta versão foram elaborados por análise dos enunciados e das opções, não sendo apresentados como gabarito oficial.
+
+O site é estático e funciona localmente, sem instalação de programas ou servidor.
